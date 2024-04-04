@@ -1,0 +1,11 @@
+PUNTATORI
+costrutto linguistico introdotto dal C(e da molti altri linguaggi) come forma di accesso alla macchina sottostante
+
+& estrattore di indirizzo
+* operatore di deferenziamento
+
+dato un puntatore ci possiamo sommare o sottrarre un numero intero
+dati due puntatori farne la differenza
+es:
+se sommo uno a un puntatore di interi lui aumenta di 4
+sizeof(int) ti dice quanti bite occupa

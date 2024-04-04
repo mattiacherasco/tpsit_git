@@ -1,0 +1,6 @@
+coda FIFO [buffer nello steaming]
+First In First Out
+bisogna memorizzarsi sia a head che la tail[next della tail==NULL]s
+enqueue inserisce un elemento 
+dequeue rimuove un elemento
+convenzionalmente inserisco elementi nuovi dalla tail e tolgo dalla head
